@@ -5,6 +5,10 @@ I'm passionate about building and deploying efficient and scalable solutions usi
 
 **Software Development:**
 
+- **React:**: I enjoy the component-based architecture and rich ecosystem that React offers, enabling me to build dynamic and interactive user interfaces efficiently. Its virtual DOM boosts performance, making the UI feel responsive and fast.
+- **Next.js:**: The server-side rendering and static site generation capabilities of Next.js help improve SEO and performance significantly. I appreciate its built-in features like API routes and automatic code-splitting, which make building full-stack applications seamless.
+- **Node js:**: I love how asynchronous, event-driven programming in Node.js enables me to build scalable and high-performance backend services. Its single-threaded nature and rich package ecosystem (NPM) make it perfect for developing real-time applications like chat apps and live updates.
+- **Express:**: The simplicity and flexibility of Express allow me to quickly set up RESTful APIs and middleware for handling various tasks like authentication and validation. Its lightweight nature gives me the freedom to design my application structure while still benefiting from powerful built-in features.
 - **Golang:** I love the **concurrency , speed ⚡️, and simplicity** of Go, making it ideal for building highly scalable backend systems and microservices ️.
 - **Python:** My experience with Python allows me to delve into **data science and big data** projects, unlocking valuable insights.
 - **API Development:** I've utilized frameworks like **Gin Goinc** , **Fiber**, **FastAPI** to create clean and efficient RESTful APIs.
