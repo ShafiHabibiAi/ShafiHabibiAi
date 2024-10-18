@@ -74,8 +74,8 @@ I'm passionate about building and deploying efficient and scalable solutions usi
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=shafi-dev-ai&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shafi-dev-ai&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shafi-dev-ai&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=ShafiHabibiAi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ShafiHabibiAi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShafiHabibiAi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </p>
